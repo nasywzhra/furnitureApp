@@ -1,6 +1,4 @@
 import 'dart:core';
-import 'dart:core';
-
 import 'package:flutter/material.dart';
 import 'package:food_app/model/meal.dart';
 
